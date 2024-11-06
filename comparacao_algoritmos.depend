@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1727914126 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\verificatempo.cpp
+	<time.h>
+	<iostream>
+
+1730137553 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<locale.h>
+	"arquivos.h"
+	"executar_ordenacao.h"
+
+1728859360 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\bubblesort.cpp
+	"bubblesort.h"
+
+1728490434 c:\users\usuario\documents\programação\c++\comparacao_algoritmos\bubblesort.h
+
+1728948298 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\insertsort.cpp
+	"insertsort.h"
+
+1728490468 c:\users\usuario\documents\programação\c++\comparacao_algoritmos\insertsort.h
+
+1728496006 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\arquivos.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<ctime>
+	<sstream>
+	"arquivos.h"
+
+1728490180 c:\users\usuario\documents\programação\c++\comparacao_algoritmos\arquivos.h
+	<string>
+
+1728490428 source:c:\users\utfpr\desktop\comparacao_algoritmos\bubblesort.cpp
+	"bubblesort.h"
+
+1728490433 c:\users\utfpr\desktop\comparacao_algoritmos\bubblesort.h
+
+1728490458 source:c:\users\utfpr\desktop\comparacao_algoritmos\insertsort.cpp
+	"insertsort.h"
+
+1728490466 c:\users\utfpr\desktop\comparacao_algoritmos\insertsort.h
+
+1728491356 source:c:\users\utfpr\desktop\comparacao_algoritmos\arquivos.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<ctime>
+	<sstream>
+	"arquivos.h"
+
+1728490179 c:\users\utfpr\desktop\comparacao_algoritmos\arquivos.h
+	<string>
+
+1728954484 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\selectionsort.cpp
+	"selectionsort.h"
+
+1728858910 c:\users\usuario\documents\programação\c++\comparacao_algoritmos\selectionsort.h
+
+1728858990 c:\users\usuario\documents\programação\c++\comparacao_algoritmos\shellsort.h
+
+1729036840 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\shellsort.cpp
+	"shellsort.h"
+
+1730135754 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\executar_ordenacao.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	"arquivos.h"
+	"executar_ordenacao.h"
+	"bubblesort.h"
+	"insertsort.h"
+	"selectionsort.h"
+	"shellsort.h"
+	"quicksort.h"
+	"mergesort.h"
+
+1730132668 c:\users\usuario\documents\programação\c++\comparacao_algoritmos\executar_ordenacao.h
+	<string>
+
+1730131695 c:\users\usuario\documents\programação\c++\comparacao_algoritmos\quicksort.h
+
+1730132779 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\quicksort.cpp
+	"quicksort.h"
+
+1730136336 c:\users\usuario\documents\programação\c++\comparacao_algoritmos\mergesort.h
+
+1730136685 source:c:\users\usuario\documents\programação\c++\comparacao_algoritmos\mergesort.cpp
+	"mergeSort.h"
+
+1730244089 source:c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\arquivos.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<ctime>
+	<sstream>
+	"arquivos.h"
+
+1730244089 c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\arquivos.h
+	<string>
+
+1730244089 source:c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\bubblesort.cpp
+	"bubblesort.h"
+
+1730244089 c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\bubblesort.h
+
+1730244089 source:c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\insertsort.cpp
+	"insertsort.h"
+
+1730244089 c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\insertsort.h
+
+1730244090 source:c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<locale.h>
+	"arquivos.h"
+	"executar_ordenacao.h"
+
+1730244089 c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\executar_ordenacao.h
+	<string>
+
+1730244091 source:c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\quicksort.cpp
+	"quicksort.h"
+
+1730244091 c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\quicksort.h
+
+1730244091 source:c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\selectionsort.cpp
+	"selectionsort.h"
+
+1730244091 c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\selectionsort.h
+
+1730244091 source:c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\shellsort.cpp
+	"shellsort.h"
+
+1730244091 c:\users\userc\documents\comparacao_algoritmos\comparacao_algoritmos\shellsort.h
+
+1730244089 source:c:\users\userc\documents\comparacao_algoritmos\arquivos.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<ctime>
+	<sstream>
+	"arquivos.h"
+
+1730244089 c:\users\userc\documents\comparacao_algoritmos\arquivos.h
+	<string>
+
+1730244089 source:c:\users\userc\documents\comparacao_algoritmos\bubblesort.cpp
+	"bubblesort.h"
+
+1730244089 c:\users\userc\documents\comparacao_algoritmos\bubblesort.h
+
+1730244089 source:c:\users\userc\documents\comparacao_algoritmos\insertsort.cpp
+	"insertsort.h"
+
+1730244089 c:\users\userc\documents\comparacao_algoritmos\insertsort.h
+
+1730574660 source:c:\users\userc\documents\comparacao_algoritmos\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<locale.h>
+	"arquivos.h"
+	"executar_ordenacao.h"
+
+1730406646 c:\users\userc\documents\comparacao_algoritmos\executar_ordenacao.h
+	<string>
+
+1730244091 source:c:\users\userc\documents\comparacao_algoritmos\quicksort.cpp
+	"quicksort.h"
+
+1730244091 c:\users\userc\documents\comparacao_algoritmos\quicksort.h
+
+1730244091 source:c:\users\userc\documents\comparacao_algoritmos\selectionsort.cpp
+	"selectionsort.h"
+
+1730244091 c:\users\userc\documents\comparacao_algoritmos\selectionsort.h
+
+1730244091 source:c:\users\userc\documents\comparacao_algoritmos\shellsort.cpp
+	"shellsort.h"
+
+1730244091 c:\users\userc\documents\comparacao_algoritmos\shellsort.h
+
+1730573662 source:c:\users\userc\documents\comparacao_algoritmos\executar_ordenacao.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	"arquivos.h"
+	"executar_ordenacao.h"
+	"bubblesort.h"
+	"insertsort.h"
+	"selectionsort.h"
+	"shellsort.h"
+	"quicksort.h"
+	"mergesort.h"
+	"heapsort.h"
+	"radixsort.h"
+
+1730574773 c:\users\userc\documents\comparacao_algoritmos\mergesort.h
+
+1730574995 source:c:\users\userc\documents\comparacao_algoritmos\mergesort.cpp
+	"mergesort.h"
+
+1730573317 c:\users\userc\documents\comparacao_algoritmos\heapsort.h
+
+1730573415 source:c:\users\userc\documents\comparacao_algoritmos\heapsort.cpp
+	"heapsort.h"
+
+1730573428 c:\users\userc\documents\comparacao_algoritmos\radixsort.h
+
+1730573257 source:c:\users\userc\documents\comparacao_algoritmos\radixsort.cpp
+	"radixsort.h"
+
